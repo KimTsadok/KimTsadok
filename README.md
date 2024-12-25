@@ -27,7 +27,9 @@ incorporating various functions and maintainability of taking care of the zoo.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kimtsadok/)![image](https://github.com/user-attachments/assets/52d059db-7ffb-429e-8b5d-244248138902)
+- [LinkedIn](https://www.linkedin.com/in/kimtsadok/)![image](https://github.com/user-attachments/assets/8b19e750-312c-4fc5-b754-346dd58c11ed)
+
+
 
 - [Email](mailto:kim.tsadok@gmail.com)
 
