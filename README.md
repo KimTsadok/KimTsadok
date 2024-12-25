@@ -27,7 +27,8 @@ incorporating various functions and maintainability of taking care of the zoo.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kimtsadok/)
+- [LinkedIn](https://www.linkedin.com/in/kimtsadok/)![image](https://github.com/user-attachments/assets/52d059db-7ffb-429e-8b5d-244248138902)
+
 - [Email](mailto:kim.tsadok@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project (tech/programming and game dev alike) or just chat about tech and coding!
