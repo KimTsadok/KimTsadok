@@ -18,7 +18,8 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 ## Projects
 
 ### [Zoo OOP Project](https://github.com/KimTsadok/Zoo-OOP-Project)
-An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features based on the OOP course.
+An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features, 
+incorporating various functions and maintainability of taking care of the zoo.
 
 ## GitHub Stats
 
