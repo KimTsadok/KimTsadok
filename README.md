@@ -10,8 +10,8 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 
 ## About Me
 
-- 💻 **Expertise**: Full-stack development, DevOps, Cloud Computing
-- 🌐 **Languages**: Python, Java, C, C#, Assembly MIPS
+- 💻 **Expertise**: Full-stack development, Game Development
+- 🌐 **Languages**: Python, Java, C, C#, Javascript
 - 🛠️ **Frameworks**: Eclipse, Ubuntu, Pycharm
 - 📚 **Education**: B.Sc. in Computer Science, 3rd year
 
@@ -20,6 +20,7 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 ### [Zoo OOP Project](https://github.com/KimTsadok/Zoo-OOP-Project)
 An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features, 
 incorporating various functions and maintainability of taking care of the zoo.
+### [DramaTune Final Project](https://github.com/KimTsadok/Adapting-music-to-dramatic-scenes-in-movies)
 
 ## GitHub Stats
 
@@ -28,8 +29,6 @@ incorporating various functions and maintainability of taking care of the zoo.
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kimtsadok/)
-
-
 
 - [Email](mailto:kim.tsadok@gmail.com)
 
