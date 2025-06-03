@@ -21,6 +21,8 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features, 
 incorporating various functions and maintainability of taking care of the zoo.
 ### [DramaTune Final Project](https://github.com/KimTsadok/Adapting-music-to-dramatic-scenes-in-movies)
+An ML based project, done on multiple datasets (video, audio), in order to merge selected dramatic soundtrack
+with uploaded video from the user - alongside future finetune components.
 
 ## GitHub Stats
 
