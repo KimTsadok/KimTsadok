@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I have 2 cats and 5 tattooes ;)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating games and programming
+
 Here you'll find a collection of my projects, contributions, and collaborations.
 
 ## About Me
