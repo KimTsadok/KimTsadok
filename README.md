@@ -1,9 +1,9 @@
 # Hi there, I'm Kim Tsadok 👋
 - 👀 I’m interested in gaming, programming, game dev, anime, food, movies, shows, and friends ^^"
-- 🌱 I’m currently learning a B.Sc in computer sciences, 3rd year in college.
+- 🌱 I’m currently learning a B.Sc in computer sciences, 4אי year in college.
 - 💞️ I’m looking to collaborate on game dev projects and game dev courses :)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have 2 cats and 5 tattooes ;)
+- ⚡ Fun fact: I have 2 cats and 6 tattooes ;)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating games and programming
 
@@ -11,19 +11,16 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 
 ## About Me
 
-- 💻 **Expertise**: Full-stack development, Game Development
+- 💻 **Expertise**: Backend development, Game Development
 - 🌐 **Languages**: Python, Java, C, C#, Javascript
 - 🛠️ **Frameworks**: Eclipse, Ubuntu, Pycharm
-- 📚 **Education**: B.Sc. in Computer Science, 3rd year
+- 📚 **Education**: B.Sc. in Computer Science, 4th year
 
 ## Projects
 
 ### [Zoo OOP Project](https://github.com/KimTsadok/Zoo-OOP-Project)
 An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features, 
 incorporating various functions and maintainability of taking care of the zoo.
-### [DramaTune Final Project](https://github.com/KimTsadok/Adapting-music-to-dramatic-scenes-in-movies)
-An ML based project, done on multiple datasets (video, audio), in order to merge selected dramatic soundtrack
-with uploaded video from the user - alongside future finetune components.
 
 ## GitHub Stats
 
