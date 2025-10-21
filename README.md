@@ -1,6 +1,6 @@
 # Hi there, I'm Kim Tsadok 👋
 - 👀 I’m interested in gaming, programming, game dev, anime, food, movies, shows, and friends ^^"
-- 🌱 I’m currently learning a B.Sc in computer sciences, 4אי year in college.
+- 🌱 I’m currently learning a B.Sc in computer sciences, 4th year in college.
 - 💞️ I’m looking to collaborate on game dev projects and game dev courses :)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have 2 cats and 6 tattooes ;)
