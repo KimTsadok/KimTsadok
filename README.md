@@ -22,6 +22,11 @@ Here you'll find a collection of my projects, contributions, and collaborations.
 An OOP driven project, based on user's data, built a system for the local zoo, with different animals and different features, 
 incorporating various functions and maintainability of taking care of the zoo.
 
+### [Bubble Survivr GGJ Project](https://github.com/KimTsadok/BubbleSurvivrGJ-)
+A Global Game Jam project made in January 2025, in collaboration with @omershukroon as part of this year's challange,
+to create a game on the theme of 'Bubbles', inspired by Bubble Trouble
+
+
 ## GitHub Stats
 
 ![KimTsadok's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTsadok&show_icons=true&theme=radical)
