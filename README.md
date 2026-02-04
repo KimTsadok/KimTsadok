@@ -23,8 +23,13 @@ An OOP driven project, based on user's data, built a system for the local zoo, w
 incorporating various functions and maintainability of taking care of the zoo.
 
 ### [Bubble Survivr GGJ Project](https://github.com/KimTsadok/BubbleSurvivrGJ-)
-A Global Game Jam project made in January 2025, in collaboration with [Omer Shukron](https://github.com/omershukroon) as part of this year's challange,
+A Global Game Jam project made in January 2025, in collaboration with [Omer Shukron](https://github.com/omershukroon) as part of 2025's challenge,
 to create a game on the theme of 'Bubbles', inspired by Bubble Trouble
+
+### [Platformer Mask Run GGJ Project](https://github.com/KimTsadok/PlatformerMaskRun)
+A Global Game Jam project made in January 2026, in collaboration with [Omer Shukron](https://github.com/omershukroon) as part of 2026's challenge,
+to create a game on the theme of 'Mask', inspired by scroller games like Temple run & Subway surferes
+
 
 
 ## GitHub Stats
