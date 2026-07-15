@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a B.Sc in computer sciences, 4th year in college.
 - 💞️ I’m looking to collaborate on game dev projects and game dev courses :)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have 2 cats and 6 tattooes ;)
+- ⚡ Fun fact: I have a cat and 8 tattooes ;)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating games and programming
 
