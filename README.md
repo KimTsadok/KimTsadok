@@ -36,6 +36,7 @@ A Final project for B.sc Computer Sciences degree, which entails a tool by R&D, 
 
 ## GitHub Stats
 
+[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTsadok&show_icons=true&theme=radical)](https://github.com/KimTsadok)
 
 ## Let's Connect
 
