@@ -30,6 +30,8 @@ to create a game on the theme of 'Bubbles', inspired by Bubble Trouble
 A Global Game Jam project made in January 2026, in collaboration with [Omer Shukron](https://github.com/omershukroon) as part of 2026's challenge,
 to create a game on the theme of 'Mask', inspired by scroller games like Temple run & Subway surferes
 
+### [SceneSense - Final Project](https://github.com/KimTsadok/SceneSense-Final-Project)
+A Final project for B.sc Computer Sciences degree, which entails a tool by R&D, made from 2 layers for scene analysis, first layer is algorithmic and GCP based API layer for numeric analysis, the second layer is LVLM based GLM model semantic and textualized analysis.
 
 
 ## GitHub Stats
