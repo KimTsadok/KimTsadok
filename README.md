@@ -34,10 +34,6 @@ to create a game on the theme of 'Mask', inspired by scroller games like Temple 
 A Final project for B.sc Computer Sciences degree, which entails a tool by R&D, made from 2 layers for scene analysis, first layer is algorithmic and GCP based API layer for numeric analysis, the second layer is LVLM based GLM model semantic and textualized analysis.
 
 
-## GitHub Stats
-
-[![Kim's GitHub stats](./profile/stats.svg)](https://github.com/KimTsadok)
-
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kimtsadok/)
